@@ -1,0 +1,24 @@
+{
+  "name": "@bhupendrasingrajput/shared-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhupendrasingrajput/shared-utils.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": ["shared", "utils", "utility", "functions", "helpers"],
+  "author": "Bhupendra Singh Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhupendrasingrajput/shared-utils/issues"
+  },
+  "homepage": "https://github.com/bhupendrasingrajput/shared-utils#readme"
+}
