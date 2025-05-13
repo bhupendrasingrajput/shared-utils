@@ -1,3 +1,3 @@
 export * from './middlewares/errorHandler.js';
-export * from './utils/ApiError.js';
-export * from './utils/ApiResponse.js';
+export * from './utilities/ApiError.js';
+export * from './utilities/ApiResponse.js';
